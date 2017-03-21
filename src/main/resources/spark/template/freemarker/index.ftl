@@ -2,6 +2,7 @@
 <html>
 <head>
   <#include "header.ftl">
+  <#include "db.ftl">
 </head>
 
 <body>
