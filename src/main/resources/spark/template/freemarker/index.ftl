@@ -7,7 +7,6 @@
 <body>
 
   <#include "nav.ftl">
-  <#include "db.ftl">
 <div class="jumbotron text-center">
   <div class="container">
        <h1>PoC for DevOps in Cloud</h1>
